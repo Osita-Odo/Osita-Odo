@@ -12,7 +12,7 @@ I am a Junior Security Analyst with a background in humanitarian intervention de
 | Skill                                                                            | Associated Project         |
 |--------------------------------------------------------------|-------------------------------------------------------------------------|
 | Linux-Lab-SSH-Hashing-Least-Priviledge                       | <a href="https://github.com/Osita-Odo/Linux-Lab-SSH-Hashing-Least-Priviledge-etc">Linux-Lab </a>|
-| Wireshark Lab                                                | <a href="https://google.com">Wireshark Lab</a>|
+| Wireshark Webstrike Lab                                      | <a href="https://github.com/Osita-Odo/Wireshark-Webstrike-Lab/edit/main/README.md">Wireshark Lab</a>|
 | SQL-Lab                                                      | <a href="https://github.com/Osita-Odo/SQL-Lab">SQL-Lab</a>|
 | Wirshark-Nmap-Task-Manager-Powershell                        | <a href="https://github.com/Osita-Odo/Vulnerabilty-Assessment-Wirshark-Nmap-Task-Manager-Powershell">Lab Report</a> |
 | Encryption-and-Decryption                                    | <a href="https://github.com/Osita-Odo/Encryption-and-Decryption">Encryption-Decryption</a>|
