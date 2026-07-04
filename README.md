@@ -1,6 +1,7 @@
 # Hello, Im Osita Kingsley Odo
-<a href="linkedin.com/in/osita-kingsley-odo"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-##**Introduction**
+<a href="linkedin.com/in/osita-kingsley-odo"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <br/>
+
+## Introduction
 I combine analytical thinking with a strong sense of responsibility for protecting both people and digital assets. 
 
 ## Objective
@@ -8,24 +9,24 @@ I am a Junior Security Analyst with a background in humanitarian intervention de
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Skill                                                                            | Associated Project         |
+|--------------------------------------------------------------|-------------------------------------------------------------------------|
+| Linux-Lab-SSH-Hashing-Least-Priviledge                       | <a href="https://github.com/Osita-Odo/Linux-Lab-SSH-Hashing-Least-Priviledge-etc">Linux-Lab </a>|
+| Wireshark Lab                                                | <a href="https://google.com">Wireshark Lab</a>|
+| SQL-Lab                                                      | <a href="https://github.com/Osita-Odo/SQL-Lab">SQL-Lab</a>|
+| Wirshark-Nmap-Task-Manager-Powershell                        | <a href="https://github.com/Osita-Odo/Vulnerabilty-Assessment-Wirshark-Nmap-Task-Manager-Powershell">Lab Report</a> |
+| Encryption-and-Decryption                                    | <a href="https://github.com/Osita-Odo/Encryption-and-Decryption">Encryption-Decryption</a>|
+| Qarba-Properties                                             | <a href="https://github.com/Osita-Odo/Qarba-Properties">Qarba-Properties</a>|
+| Shieldedbit-Capstone                                         | <a href="https://github.com/Osita-Odo/Shieldedbit-Capstone">Capstone Project</a>|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Tcpdump-777BB4?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
 
 ### Endpoint
@@ -38,19 +39,16 @@ I am a Junior Security Analyst with a background in humanitarian intervention de
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=Coursera&logoColor=white" />
+<img src="https://img.shields.io/badge/-IT%20Infrastructure%20Foundation-000000?&style=for-the-badge&logo=RedHat&logoColor=white" />
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Network Analysis
+- Network Design Lab
+- Vulnerability Analysis
