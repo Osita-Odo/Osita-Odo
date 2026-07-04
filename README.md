@@ -18,7 +18,7 @@ I am a Junior Security Analyst with a background in humanitarian intervention de
 | Encryption-and-Decryption                                    | <a href="https://github.com/Osita-Odo/Encryption-and-Decryption">Encryption-Decryption</a>|
 | Qarba-Properties                                             | <a href="https://github.com/Osita-Odo/Qarba-Properties">Qarba-Properties</a>|
 | Shieldedbit-Capstone                                         | <a href="https://github.com/Osita-Odo/Shieldedbit-Capstone">Capstone Project</a>|
-| Cisco Packet Tracer: Networking Labs                         | <a href="https://github.com/Osita-Odo/Networking-Lab-with-CISCO-Packet-Tracer">Capstone Project</a>|
+| Cisco Packet Tracer: Networking Labs                         | <a href="https://github.com/Osita-Odo/Networking-Lab-with-CISCO-Packet-Tracer">Network Project</a>|
 
 
 ## Tools
