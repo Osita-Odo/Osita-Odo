@@ -11,14 +11,15 @@ I am a Junior Security Analyst with a background in humanitarian intervention de
 
 | Skill                                                                            | Associated Project         |
 |--------------------------------------------------------------|-------------------------------------------------------------------------|
-| Linux-Lab-SSH-Hashing-Least-Priviledge                       | <a href="https://github.com/Osita-Odo/Linux-Lab-SSH-Hashing-Least-Priviledge-etc">Linux-Lab </a>|
-| Wireshark Webstrike Lab                                      | <a href="https://github.com/Osita-Odo/Wireshark-Webstrike-Lab/edit/main/README.md">Wireshark Lab</a>|
-| SQL-Lab                                                      | <a href="https://github.com/Osita-Odo/SQL-Lab">SQL-Lab</a>|
-| Wirshark-Nmap-Task-Manager-Powershell                        | <a href="https://github.com/Osita-Odo/Vulnerabilty-Assessment-Wirshark-Nmap-Task-Manager-Powershell">Lab Report</a> |
-| Encryption-and-Decryption                                    | <a href="https://github.com/Osita-Odo/Encryption-and-Decryption">Encryption-Decryption</a>|
-| Qarba-Properties                                             | <a href="https://github.com/Osita-Odo/Qarba-Properties">Qarba-Properties</a>|
-| Shieldedbit-Capstone                                         | <a href="https://github.com/Osita-Odo/Shieldedbit-Capstone">Capstone Project</a>|
-| Cisco Packet Tracer: Networking Labs                         | <a href="https://github.com/Osita-Odo/Networking-Lab-with-CISCO-Packet-Tracer">Network Project</a>|
+| 
+Linux hardening: SSH configuration, password hashing, least-privilege access control                        | <a href="https://github.com/Osita-Odo/Linux-Lab-SSH-Hashing-Least-Priviledge-etc">Linux-Lab </a>|
+| Network traffic analysis: identifying web-based attack patterns in packet captures                        | <a href="https://github.com/Osita-Odo/Wireshark-Webstrike-Lab/edit/main/README.md">Wireshark Lab</a>|
+| SQL for security investigation: querying logs and databases to filter events and trace activity           | <a href="https://github.com/Osita-Odo/SQL-Lab">SQL-Lab</a>|
+| Host and network reconnaissance: Nmap scanning, Wireshark capture analysis, PowerShell and Task Manager process investigation                        | <a href="https://github.com/Osita-Odo/Vulnerabilty-Assessment-Wirshark-Nmap-Task-Manager-Powershell">Lab Report</a> |
+| Applied cryptography: symmetric and asymmetric encryption, decryption workflows, integrity verification   | <a href="https://github.com/Osita-Odo/Encryption-and-Decryption">Encryption-Decryption</a>|
+| Qarba-Properties on Compliance and AppSec                                            | <a href="https://github.com/Osita-Odo/Qarba-Properties">Qarba-Properties</a>|
+| Shieldedbit-Capstone /summary of 13 weeks learning                                        | <a href="https://github.com/Osita-Odo/Shieldedbit-Capstone">Capstone Project</a>|
+| Network design and segmentation: VLANs, routing, and access control lists in Cisco Packet Tracer          | <a href="https://github.com/Osita-Odo/Networking-Lab-with-CISCO-Packet-Tracer">Network Project</a>|
 
 
 ## Tools
@@ -29,6 +30,9 @@ I am a Junior Security Analyst with a background in humanitarian intervention de
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
     <img src="https://img.shields.io/badge/-Tcpdump-777BB4?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-EVE--NG-2E8B57?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-EVE--NG-2E8B57?&style=for-the-badge&logo=cisco&logoColor=white" />
+
 </div>
 
 ### Endpoint
