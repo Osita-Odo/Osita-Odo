@@ -30,7 +30,7 @@ I am a Junior Security Analyst with a background in humanitarian intervention de
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
     <img src="https://img.shields.io/badge/-Tcpdump-777BB4?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-EVE--NG-2E8B57?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-EVE--NG-2E8B57?&style=for-the-badge&logo=cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
 
 </div>
 
