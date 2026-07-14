@@ -1,5 +1,7 @@
 # Hello, I am Osita Kingsley Odo
-<a href="https://www.linkedin.com/in/osita-kingsley-odo/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BW05OUSOHTdCKJhPW%2FxDS6A%3D%3D"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <br/>
+<a href="https://www.linkedin.com/in/osita-kingsley-odo/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BW05OUSOHTdCKJhPW%2FxDS6A%3D%3D"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="https://fullstack-portfolio-app.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?&style=for-the-badge&logo=vercel&logoColor=white" /></a> <br/>
+
 
 ## Introduction
 I combine analytical thinking with a strong sense of responsibility for protecting both people and digital assets. 
