@@ -21,6 +21,7 @@ I am a cybersecurity Analyst with a background in humanitarian intervention desi
 | Qarba-Properties on Compliance and AppSec                                                                                      | <a href="https://github.com/Osita-Odo/Qarba-Properties">Qarba-Properties</a>|
 | Shieldedbit-Capstone /summary of 13 weeks learning                                                                             | <a href="https://github.com/Osita-Odo/Shieldedbit-Capstone">Capstone Project</a>|
 | Network design and segmentation: VLANs, routing, and access control lists in Cisco Packet Tracer                               | <a href="https://github.com/Osita-Odo/Networking-Lab-with-CISCO-Packet-Tracer">Network Project</a>|
+| Python-Lab---Google-Cybersecurity                                                                                              | <a href="https://github.com/Osita-Odo/Python-Lab---Google-Cybersecurity"> | 
 
 
 ## Tools
