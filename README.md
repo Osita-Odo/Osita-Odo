@@ -11,7 +11,7 @@ I am a cybersecurity Analyst with a background in humanitarian intervention desi
 
 ## Projects
 
-| Project Documentations                                                                                                                         |                               Associated Project         |
+| Project Documentations                                                                                                                         |                               Associated Readme File         |
 |--------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
 | Linux hardening: SSH configuration, password hashing, least-privilege access control                                           | <a href="https://github.com/Osita-Odo/Linux-Lab-SSH-Hashing-Least-Priviledge-etc">Linux-Lab </a>|
 | Network traffic analysis: identifying web-based attack patterns in packet captures                                             | <a href="https://github.com/Osita-Odo/Wireshark-Webstrike-Lab/edit/main/README.md">Wireshark Lab</a>|
