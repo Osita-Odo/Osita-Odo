@@ -55,8 +55,3 @@ I am a cybersecurity Analyst with a background in humanitarian intervention desi
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=Coursera&logoColor=white" />
 <img src="https://img.shields.io/badge/-IT%20Infrastructure%20Foundation-000000?&style=for-the-badge&logo=RedHat&logoColor=white" />
 </div>
-
-## Projects
-- Network Analysis
-- Network Design Lab
-- Vulnerability Analysis
