@@ -9,9 +9,9 @@ I combine analytical thinking with a strong sense of responsibility for protecti
 ## Objective
 I am a cybersecurity Analyst with a background in humanitarian intervention design, drawn into cybersecurity after being affected by over 500 account compromises. Hands-on experience spans vulnerability management, Security Operation, GDPR data privacy and web application vulnerability assessment. I have interest in positions within Security Operatons Center Analysis, Incident Response, Trust and Security Officer and IT admin.
 
-## Skills
+## Projects
 
-| Skill                                                                                                                          |                               Associated Project         |
+| Project Documentations                                                                                                                         |                               Associated Project         |
 |--------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
 | Linux hardening: SSH configuration, password hashing, least-privilege access control                                           | <a href="https://github.com/Osita-Odo/Linux-Lab-SSH-Hashing-Least-Priviledge-etc">Linux-Lab </a>|
 | Network traffic analysis: identifying web-based attack patterns in packet captures                                             | <a href="https://github.com/Osita-Odo/Wireshark-Webstrike-Lab/edit/main/README.md">Wireshark Lab</a>|
