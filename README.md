@@ -22,7 +22,7 @@ I am a cybersecurity Analyst with a background in humanitarian intervention desi
 | Shieldedbit-Capstone /summary of 13 weeks learning                                                                             | <a href="https://github.com/Osita-Odo/Shieldedbit-Capstone">Capstone Project</a>|
 | Network design and segmentation: VLANs, routing, and access control lists in Cisco Packet Tracer                               | <a href="https://github.com/Osita-Odo/Networking-Lab-with-CISCO-Packet-Tracer">Network Project</a>|
 | Python-Lab---Google-Cybersecurity                                                                                              | <a href="https://github.com/Osita-Odo/Python-Lab---Google-Cybersecurity">Python-Lab - Google-Cybersecurity</a>|| 
-| Assets, Threats, and Vulnerabilities — Risk Assessment Labs                                                                                              | <a href="https://github.com/Osita-Odo/Python-Lab---Google-Cybersecurity">Python-Lab---Google-Cybersecurity</a>||
+| Assets, Threats, and Vulnerabilities — Risk Assessment Labs                                                                                              | <a href="https://github.com/Osita-Odo/Assets-Threats-and-Vulnerabilities-Risk-Assessment-Labs">Assets, Threats, and Vulnerabilities — Risk Assessment Labs</a>||
 
 
 ## Tools
