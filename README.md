@@ -19,10 +19,8 @@ I am a cybersecurity Analyst with a background in humanitarian intervention desi
 | Host and network reconnaissance: Nmap scanning, Wireshark capture analysis, PowerShell and Task Manager process investigation  | <a href="https://github.com/Osita-Odo/Vulnerabilty-Assessment-Wirshark-Nmap-Task-Manager-Powershell">Lab Report</a>|
 | Linux hardening: SSH configuration, password hashing, least-privilege access control                                           | <a href="https://github.com/Osita-Odo/Linux-Lab-SSH-Hashing-Least-Priviledge-etc">Linux-Lab </a>|
 | Applied cryptography: symmetric and asymmetric encryption, decryption workflows, integrity verification                        | <a href="https://github.com/Osita-Odo/Encryption-and-Decryption">Encryption-Decryption</a>|
-
 | SQL for security investigation: querying logs and databases to filter events and trace activity | <a href="https://github.com/Osita-Odo/SQL-Lab">SQL-Lab</a>|
 | Python-Lab - Google-Cybersecurity                                                                                              | <a href="https://github.com/Osita-Odo/Python-Lab---Google-Cybersecurity">Python-Lab - Google-Cybersecurity</a>|| 
-
 | Assets, Threats, and Vulnerabilities — Risk Assessment Labs                                                                                              | <a href="https://github.com/Osita-Odo/Assets-Threats-and-Vulnerabilities-Risk-Assessment-Labs">Assets, Threats, and Vulnerabilities — Risk Assessment Labs</a>||
 
 ## Tools
