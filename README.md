@@ -4,13 +4,10 @@
  <a href="mailto:ositaodok@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a> <br/>
 
 
-## Introduction
-I combine analytical thinking with a strong sense of responsibility for protecting both people and digital assets. 
+## Professional Summay
+I am a cybersecurity analyst with a background in humanitarian intervention design, drawn into the field after being personally affected by around 500 account compromises. My hands-on experience spans vulnerability management, security operations, identity and access management, GDPR data privacy and web application vulnerability assessment, backed by practical labs in network security, offensive security and access control. I combine analytical thinking with a strong sense of responsibility for protecting both people and digital assets. I am interested in roles in Security Operations Centre (SOC) analysis, GRC, incident response, trust and security, and IT administration.
 
-## Objective
-I am a cybersecurity Analyst with a background in humanitarian intervention design, drawn into cybersecurity after being affected by about 500 account compromises. My hands-on experience spans vulnerability management, Security Operation, GDPR data privacy and web application vulnerability assessment. I have interest in positions within Security Operatons Center Analysis, Incident Response, Trust and Security Officer and IT admin.
-
-## Projects
+## Summaries of Projects by Security Areas
 
 | Category | Objective | Tools applied | Lessons learnt |
 |---|---|---|---|
