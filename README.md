@@ -10,7 +10,6 @@ I combine analytical thinking with a strong sense of responsibility for protecti
 ## Objective
 I am a cybersecurity Analyst with a background in humanitarian intervention design, drawn into cybersecurity after being affected by about 500 account compromises. My hands-on experience spans vulnerability management, Security Operation, GDPR data privacy and web application vulnerability assessment. I have interest in positions within Security Operatons Center Analysis, Incident Response, Trust and Security Officer and IT admin.
 
-## Projects
 
 ## Projects
 
