@@ -13,8 +13,6 @@ I am a cybersecurity Analyst with a background in humanitarian intervention desi
 
 ## Projects
 
-## Projects
-
 | Category | Objective | Tools applied | Lessons learnt |
 |---|---|---|---|
 | **[Network Infrastructure](https://github.com/Osita-Odo/Networking-Labs)** | Design, cable and verify networks covering switching, routing, DHCP, email services and VLANs. | **Platform:** Cisco Packet Tracer (Logical, Simulation and Physical Mode)<br>**Tools:** Cisco IOS CLI, Catalyst 2960 switches, Cisco 2911/ISR4331/4321 routers | Document connections before building, read IOS errors carefully, and verify every change with `ping` and `show` commands. |
