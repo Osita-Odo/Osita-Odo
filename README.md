@@ -7,7 +7,7 @@
 ## Professional Summay
 I am a cybersecurity analyst with a background in humanitarian intervention design, drawn into the field after being personally affected by around 500 account compromises. My hands-on experience spans vulnerability management, security operations, identity and access management, GDPR data privacy and web application vulnerability assessment, backed by practical labs in network security, offensive security and access control. I combine analytical thinking with a strong sense of responsibility for protecting both people and digital assets. I am interested in roles in Security Operations Centre (SOC) analysis, GRC, incident response, trust and security, and IT administration.
 
-## Summaries of Projects by Security Areas
+## Summary of Projects by Security Areas
 
 | Category | Objective | Tools applied | Lessons learnt |
 |---|---|---|---|
