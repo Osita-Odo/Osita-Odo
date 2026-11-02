@@ -5,7 +5,7 @@
 
 
 ## Professional Summay
-I am a cybersecurity analyst with a background in humanitarian intervention design, drawn into the field after being personally affected by around 500 account compromises. My hands-on experience spans vulnerability management, security operations, identity and access management, GDPR data privacy and web application vulnerability assessment, backed by practical labs in network security, offensive security and access control. I combine analytical thinking with a strong sense of responsibility for protecting both people and digital assets. I am interested in roles in Security Operations Centre (SOC) analysis, GRC, incident response, trust and security, and IT administration.
+I am a cybersecurity analyst with a background in humanitarian emergency incident response, drawn into the field after finding many of my own credentials exposed in data breaches. I work across security operations, vulnerability management, identity and access management, General Data Protection Regulation (GDPR) privacy and web application testing, shown in the labs below. I am looking for roles in Security Operations Centre (SOC) analysis, Governance, Risk and Compliance (GRC), incident response, Trust and Safety, and IT administration.
 
 ## Summary of Projects by Security Areas
 
